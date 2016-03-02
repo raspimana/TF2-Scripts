@@ -42,6 +42,7 @@ Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the sa
 
 #####Shift usage: 
 When shift is hold down, these buttons will serve diffrent purposes than if shift wasn't hold down. When shift is released, all buttons will be bound to the previous binds again.
+
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | E | Yes! Voice | Says "Yes!" with a voice command. |

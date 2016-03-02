@@ -52,6 +52,7 @@ When shift is hold down, these buttons will serve diffrent purposes than if shif
 
 #####Low frequency buttons:
 Most of these stayed the same.
+
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | L | Dropitem | Drops the intel/other stuff when carrying it. |

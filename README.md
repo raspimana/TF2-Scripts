@@ -28,9 +28,9 @@ Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the sa
 | --- | --- | --- |
 | Mouse 1 | Attacks | Just the same as default |
 | Mouse 2 | Uses attack2 | E.g. equipping an invisi-watch, or zooming in as sniper. |
-| Mousewheel Up | Primary weapon | Equips the primary weapon. **NOTE: Some classes overwrite this**|
-| Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this**|
-| Mousewheel Click | Melee | Equips the melee weapon and keeps swinging it until let gone of. **NOTE: Some classes overwrite this**|
+| Mousewheel Up | Primary weapon | Equips the primary weapon. **NOTE: Some classes overwrite thi.s**|
+| Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this.**|
+| Mousewheel Click | Melee | Equips the melee weapon and keeps swinging it until let gone of. **NOTE: Some classes overwrite this.**|
 
 #####Special Keys:
 | Button(s) | Function | Extras |

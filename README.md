@@ -8,8 +8,12 @@ Feel free to edit the configs to your own liking!
 
 
 ##Installation
-You can download this GitHub repository as a .zip and extract all the files into `%YourSteamPath%\SteamApps\common\Team Fortress 2\tf\custom\Configs\cfg`
-Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name.
+You can download this GitHub repository as a .zip and extract all the files into `%YourSteamPath%\SteamApps\common\Team Fortress 2\tf\custom\Configs\`. You can delete readme.md though.
+Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name as these.
+You should update these to see if I have added stuff. There is a changelog down below.
+
+##Changelog
+Nothing yet.
 
 
 ##Keybinds
@@ -41,8 +45,8 @@ Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the sa
 | R | Reload and disguise team | Use this to manually reload, or change the gisguise team as a spy. |
 | SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. |
 
-######Shift usage: 
-When shift is hold down, these buttons will serve diffrent purposes than if shift wasn't hold down. When shift is released, all buttons will be bound to the previous binds again.
+######Shift usage:
+When shift is held down, these buttons will serve diffrent purposes than if shift wasn't hold down. When shift is released, all buttons will be bound to the previous binds again.
 
 | Button(s) | Function | Extras |
 | --- | --- | --- |

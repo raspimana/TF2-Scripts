@@ -160,6 +160,7 @@ When you use your gun. The crosshair will change into a small dot. And if you ho
 | Command | Meaning |
 | --- | --- |
 | `walkway` | Loads the tr_walkway map and executes some commands to make it work. |
+| `aim` | Same as above, but then with the map tr_aim. |
 | `good_graphics` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
 | `comp_graphics` | Switches to my comp graphics config. |
 

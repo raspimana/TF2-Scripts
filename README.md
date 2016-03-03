@@ -152,5 +152,15 @@ Most of these stayed the same.
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
 When you use your gun. The crosshair will change into a small dot. Also your fov will go to its lowest setting to "zoom in". To undo this, just use any other weapon. If you want to use the gun without this, you can edit the script, or press 1 on your keyboard.
 
+##Console Commands:
+| Command | Meaning |
+| --- | --- |
+| `walkway` | Loads the tr_walkway map and executes some commands to make it work. |
+| `good_graphics` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
+| `comp_graphics` | Switches to my comp graphics config. |
 
---Need to add more
+##Other:
+| Button(s) | Function |
+| --- | --- |
+| Page Up | Use the first person taunts and viewmodel. |
+| Page Down | Use third person taunts and default viewmodel. |

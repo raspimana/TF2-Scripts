@@ -150,7 +150,7 @@ Most of these stayed the same.
 | --- | --- | --- |
 | Mouse 1 | Attack | |
 | Mouse 2 | Secondary attack. Uses invisi watch or dead ringer. |
-| Mousewheel up | Equip primary | Equips the revolver or ambassador. Also uses zoom script. |
+| Mousewheel up | Equip primary | Equips the revolver or ambassador. Also uses zoom script. **Note: If shift is held down, no zoom wil happen. However, the viewmodel will still disappear. |
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. Use 'R' to swap between teams. |
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |

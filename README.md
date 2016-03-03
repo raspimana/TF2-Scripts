@@ -1,29 +1,29 @@
 #Tvde1's TF2 Configs
 
-###Introduction
+##Introduction
 Hi!
 These are my TF2 configs for all classes.
 I'll try to comment on what every line does, if there are any questions, just ask.
 Feel free to edit the configs to your own liking!
 
 
-###Installation
+##Installation
 You can download this GitHub repository as a .zip and extract all the files into `%YourSteamPath%\SteamApps\common\Team Fortress 2\tf\custom\Configs\cfg`
 Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name.
 
 
-###Keybinds
+##Keybinds
 
-####All classes: (Some classes may overwrite these)
+###All classes: (Some classes may overwrite these)
 
-#####High frequency buttons:
+####High frequency buttons:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | WASD | Regular movement | I have added a null-movement script. |
 | SPACE | Jumps + crouches | This button jumps and crouches at the same time when you hold the spacebar. |
 | CTRL | Crouches | |
 
-#####Mouse:
+####Mouse:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attacks | Just the same as default |
@@ -32,7 +32,7 @@ Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the sa
 | Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this.**|
 | Mousewheel Click | Melee | Equips the melee weapon and keeps swinging it until let gone of. **NOTE: Some classes overwrite this.**|
 
-#####Special Keys:
+####Special Keys:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | E | Call for medic | I shouldn't have to explain this. |
@@ -41,7 +41,7 @@ Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the sa
 | R | Reload and disguise team | Use this to manually reload, or change the gisguise team as a spy. |
 | SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. |
 
-#####Shift usage: 
+######Shift usage: 
 When shift is hold down, these buttons will serve diffrent purposes than if shift wasn't hold down. When shift is released, all buttons will be bound to the previous binds again.
 
 | Button(s) | Function | Extras |
@@ -51,7 +51,7 @@ When shift is hold down, these buttons will serve diffrent purposes than if shif
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
-#####Low frequency buttons:
+####Low frequency buttons:
 Most of these stayed the same.
 
 | Button(s) | Function | Extras |
@@ -83,7 +83,7 @@ Most of these stayed the same.
 
 
 
-####Class specific:
+###Class specific:
 
 #####Scout:
 | Button(s) | Function | Extras |
@@ -116,7 +116,7 @@ Most of these stayed the same.
 | Q | Fastbuild Sentry | Quickly builds a sentry. **Note: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
 | Mouse 4 | Build things | If you hold this down, the next binds will take place. |
 
-######Without mouse 4 hold down:
+#######Without mouse 4 hold down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attacks | |
@@ -125,13 +125,13 @@ Most of these stayed the same.
 | Mousewheel Down | Melee | Equips the wrench. |
 | Mouse 3 | Equip secondary |Secondary weapon. |
 
-######With mouse 4 hold down:
+#######With mouse 4 hold down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 1 | Build sentry | **Note: Only builds the sentry when mouse 4 is hold.** |
-| Mouse 2 | Build dispenser | **Note: Only builds the sentry when mouse 4 is hold.** |
-| Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when mouse 4 is hold.** |
-| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when mouse 4 is hold.** |
+| Mouse 1 | Build sentry | **Note: Only builds the sentry when mouse 4 is held down.** |
+| Mouse 2 | Build dispenser | **Note: Only builds the sentry when mouse 4 is held down.** |
+| Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when mouse 4 is held down.** |
+| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when mouse 4 is held down.** |
 
 #####Medic:
 | Button(s) | Function | Extras |

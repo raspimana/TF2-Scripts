@@ -1,0 +1,58 @@
+- Added sentry room
+- Added texture to all buttons
+- Added trajectory selection to the launch-pad
+- Added function to make bot crouch permanently or randomly
+- Added option to spawn different ammount of bots (16, 14, 12, 10, 8, 5, 3, 1 or 0)
+- Added option for servers to choose the maximum ammounts of bots and lock it
+- Added tr_help command to get a list of all avaiable commands
+- Added retractable platform
+- Added window to the first part of the walkway and modified the skybox
+- Added fade distance to lots of props on the main room
+- Added "small step" option to the hill elevation
+- Added option to spawn individual classes for bots
+- Added position selection for the deploy system
+- Added a 100 HP regeneration per second when resupply is enabled
+- Added ammo and health boxes in the top level of the building
+- Added a random option to "Strafe movement" for the bots
+- Added counters to count how many bots were deployed and killed by the player
+- Added option to spawn bots directly on the launch-pad
+- Added option to choose the deploy position of the bots
+- Added a new option to damage bots by 75 damage instead of 124
+- Added 2 new easter eggs
+- Now hoovy and one of the new easter eggs reacts after the player kills a certain ammount of bots
+- Made all metters buttons in addition to the old plus-minus buttons
+- Added "panic mode"
+- Added reset button
+- Added attack options to make bots fire slowly and another to make them fire randomly
+- Added crouch to dodge options
+- Added new texture for the teleport buttons
+
+- Increased "Aim down" angle for making airblast jump practice easier
+- Changed how the lifts work. The lift to the roof will now stay at the ramp's height and wont 
+move until a player is on it. If someone goes to the lower floor, the lift will go there and wait
+for the player. The building lift will only go out when someone is on it.
+- Increased minimum distance to show the help text of the buttons
+- Headshot correction change: If you spawn a different bots wave after spawning "Bots 
+for headshot training", the bots will aim forward again
+- Removed yellow button aka custom button. Nobody used it as far as we know and it confused people
+- Removed option to turn off "throw bots to the wall"
+- Made the random deploy system slightly more random
+- Made the first easter egg easier and more intuitive to get
+- Changed the position of all cfgs, now they are packed inside the bsp
+- The map doesn't load a map.cfg anymore
+- Added two new cfgs to the map. "help" for the tr_help command and "cvars" for tr_loadcvars command
+- Textured lots of hidden, but rendered, brush faces to nodraw
+- Replaced the brush buttons with props
+
+- Fixed tr_teleport for clients joining a server
+- Fixed launch-pad power selection not working properly
+- Fixed a case in the launch-pad with random power where the bots would do a small hop 
+- Fixed stutter on the ramp
+- Fixed explosives don't working properly on the ramp (it was a bug introduced by valve with the
+changes to the explosion radius, fixed by them in an update. This bug is not present in _rc anymore)
+- Fixed rare case where sv_cheats disabled itself. Now its very hard to disable it, this is to
+protect the player's stats (sv_cheats will be enabled every time a player respawns)
+- Fixed door on the start of the walkway blocking the control room
+- Fixed rare bug where the random deploy system broke itself
+- Removed collision from some props without vphysics model
+- Major mechanics changes in the deploy, spawn, hill system and all toggle options in the map

@@ -150,11 +150,11 @@ Most of these stayed the same.
 | --- | --- | --- |
 | Mouse 1 | Attack | |
 | Mouse 2 | Secondary attack. Uses invisi watch or dead ringer. |
-| Mousewheel up | Equip primary | Equips the revolver or ambassador. Also uses zoom script. **Note: If shift is held down, no zoom wil happen. However, the viewmodel will still disappear. |
+| Mousewheel up | Equip primary | Equips the revolver or ambassador. Also uses zoom script. **Note: If shift is held down, no zoom wil happen. However, the viewmodel will still disappear.** |
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. Use 'R' to swap between teams. |
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
-When you use your gun. The crosshair will change into a small dot. Also your fov will go to its lowest setting to "zoom in". To undo this, just use any other weapon. If you want to use the gun without this, you can edit the script, or press 1 on your keyboard.
+When you use your gun. The crosshair will change into a small dot. Also your fov will go to its lowest setting to "zoom in". To undo this, just use any other weapon. To not zoom, hold shift when changing to the revoler, or use '1'.
 
 ##Console Commands:
 | Command | Meaning |

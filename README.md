@@ -43,7 +43,7 @@ Nothing yet.
 | ALT | Call for spy | Just calls out that there is a spy. |
 | F | Inspect | Inspects the player aimed at, or shows an animation of your current weapon. |
 | R | Reload and disguise team | Use this to manually reload, or change the gisguise team as a spy. |
-| SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. |
+| SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. Some classes will add extra usages to this button. |
 
 ######Shift usage:
 When shift is held down, these buttons will serve diffrent purposes than if shift wasn't hold down. When shift is released, all buttons will be bound to the previous binds again.
@@ -98,7 +98,7 @@ Most of these stayed the same.
 ####Soldier:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and press the button. You will crouhjump and shoot a rocket automatically. |
+| Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and press the button. You will crouchjump and shoot a rocket automatically. |
 
 ####Pyro:
 | Button(s) | Function | Extras |
@@ -117,10 +117,10 @@ Most of these stayed the same.
 ####Engineer:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Q | Fastbuild Sentry | Quickly builds a sentry. **Note: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
-| Mouse 4 | Build things | If you hold this down, the next binds will take place. |
+| Q | Fastbuild Sentry | Quickly builds a sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
+| SHIFT | Build things | If you hold this down, the next binds will take place. (And of curse the usual shift usage.) |
 
-######Without mouse 4 hold down:
+######Without SHIFT held down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attacks | |
@@ -129,13 +129,13 @@ Most of these stayed the same.
 | Mousewheel Down | Melee | Equips the wrench. |
 | Mouse 3 | Equip secondary |Secondary weapon. |
 
-######With mouse 4 hold down:
+######With SHIFT held down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 1 | Build sentry | **Note: Only builds the sentry when mouse 4 is held down.** |
-| Mouse 2 | Build dispenser | **Note: Only builds the sentry when mouse 4 is held down.** |
-| Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when mouse 4 is held down.** |
-| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when mouse 4 is held down.** |
+| Mouse 1 | Build sentry | **Note: Only builds the sentry when SHIFT is held down.** |
+| Mouse 2 | Build dispenser | **Note: Only builds the sentry when SHIFT is held down.** |
+| Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when SHIFT  is held down.** |
+| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when SHIFT is held down.** |
 
 ####Medic:
 | Button(s) | Function | Extras |
@@ -154,7 +154,7 @@ Most of these stayed the same.
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. Use 'R' to swap between teams. |
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
-When you use your gun. The crosshair will change into a small dot. And if you hold shift, then it wil zoom in too.
+| SHIFT | Zoom script | When you hold down shift and then switch to your primary weapon, you will zoom in (low FOV). The usual shift usage will still work. |
 
 ##Console Commands:
 | Command | Meaning |

@@ -85,38 +85,38 @@ Most of these stayed the same.
 
 ###Class specific:
 
-#####Scout:
+####Scout:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 4 | Quick secondary | Hold it to use mad milk, or crit-a-cola. |
 | Mouse 5 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
 
-#####Soldier:
+####Soldier:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and press the button. You will crouhjump and shoot a rocket automatically. |
 
-#####Pyro:
+####Pyro:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-#####Demoman:
+####Demoman:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-#####Heavy:
+####Heavy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 4 | Eat sandvich | Hold to eat sandvich. |
 | Mouse 5 | Throw sandvich | Hold to throw sandvich. |
 
-#####Engineer:
+####Engineer:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Q | Fastbuild Sentry | Quickly builds a sentry. **Note: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
 | Mouse 4 | Build things | If you hold this down, the next binds will take place. |
 
-#######Without mouse 4 hold down:
+######Without mouse 4 hold down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attacks | |
@@ -125,7 +125,7 @@ Most of these stayed the same.
 | Mousewheel Down | Melee | Equips the wrench. |
 | Mouse 3 | Equip secondary |Secondary weapon. |
 
-#######With mouse 4 hold down:
+######With mouse 4 hold down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Build sentry | **Note: Only builds the sentry when mouse 4 is held down.** |
@@ -133,15 +133,15 @@ Most of these stayed the same.
 | Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when mouse 4 is held down.** |
 | Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when mouse 4 is held down.** |
 
-#####Medic:
+####Medic:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-#####Sniper:
+####Sniper:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-#####Spy:
+####Spy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attack | |

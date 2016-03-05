@@ -10,10 +10,14 @@ Feel free to edit the configs to your own liking!
 ##Installation
 You can download this GitHub repository as a .zip and extract all the files into `%YourSteamPath%\SteamApps\common\Team Fortress 2\tf\custom\Configs\`. You can delete readme.md though.
 Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name as these.
-You should update these to see if I have added stuff. There is a changelog down below.
+You should update it regularly, and scan through the keybinds to see if I have added something.
 
-##Changelog
-Nothing yet.
+##Maps
+As you can see, I have a few aliasses that start up maps. You can only use them if you've downloaded the maps.
+Those maps are
+-tr_walkway_rc2
+-tr_aim
+-tr_aim_practice
 
 
 ##Keybinds
@@ -162,6 +166,7 @@ Most of these stayed the same.
 | --- | --- |
 | `walkway` | Loads the tr_walkway map and executes some commands to make it work. |
 | `aim` | Same as above, but then with the map tr_aim. |
+| `aim_training` | Same as above, but then with the map tr_aim_training. |
 | `good_graphics` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
 | `comp_graphics` | Switches to my comp graphics config. |
 

@@ -90,6 +90,7 @@ Most of these stayed the same.
 | = | Decline notification | |
 | \ | First/Third person toggle | Toggles the first person world model and taunt. |
 | U | Tauntkill | Press this to use your classes tauntkill weapon and taunt. |
+| B | Call everyone a medic| Use this to say "That demoman is a - medic!" |
 
 
 ####Numpad voice commands:
@@ -179,6 +180,10 @@ Another example: If I press KP . (spy commands) and then KP 8 (sniper), then it 
 ####Medic:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
+| Mouse 2 | Uber | Swiches to medigun and ubers. Also writes it in chat. |
+| Mouse 4 | Radar | Hold this to see all your teammates. |
+| Mouse 5 | Mask uber | Press this when you are at 99% charge to suppress the voice comm. |
+| Q | Fake uber | It'll play the ubercharge ready sound, but notify your teammates that it's fake. |
 
 ####Sniper:
 | Button(s) | Function | Extras |

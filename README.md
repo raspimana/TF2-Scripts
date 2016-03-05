@@ -118,7 +118,7 @@ These take place when the KP enter has been activated.
 | 7 | Push | Let's all push (go in). |
 | 8 | Fall back | We need to fall back. |
 
-#####Insulting
+#####Insulting/Joking
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | / | Insults | Push these the first time insulting someone. |
@@ -126,8 +126,9 @@ These take place when the KP enter has been activated.
 | - | Jokes | These are just nice TF2 related jokes. |
 | + | Spy insults | Because I main spy, I've only made these. |
 
-An example: If I press KP 0 (Enemy down commands) and then KP 4 (demoman), in the chat "Enemy demoman down!" will appear.
-Another example: If I press KP . (spy commands) and then KP 8 (sniper), then it will write "Enemy spy disguised as sniper!".
+An example: If I press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the chat "Enemy demoman down!" will appear.
+
+Another example: If I press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!".
 
 
 ###Class specific:

@@ -87,17 +87,43 @@ Most of these stayed the same.
 | F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
 | ` | Developer console | You should be familiar with this, if you're on this page. |
 | - | Accept notification | |
-| = | Decline notification | | 
+| = | Decline notification | |
+| \ | First/Third person toggle | Toggles the first person world model and taunt. |
+| U | Tauntkill | Press this to use your classes tauntkill weapon and taunt. |
 
-###Taunts/Insults:
+
+####Numpad voice commands:
 Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.
 
+#####Selection
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| 0 | Insults | Push these the first time insulting someone. |
-| . | Comebacks | Push these when someone is already mad and insulting you. |
-| ENTER | Jokes | These are just nice TF2 related jokes. |
-| 9 | Spy insults | Because I main spy I've only made these. |
+| 1-9 | Classes | Use these for selecting the class. |
+| 0 | Enemies down | Push this to use the 'enemy down' commands. |
+| . | Enemy spy | Push this to enable the spy commands. |
+| ENTER | Other | Push this for other commands. They are listed below. |
+
+#####Other
+These take place when the KP enter has been activated.
+| Button(s) | Function | Extras |
+| --- | --- | --- |
+| 1 | Sentry down | Lets your team know that a sentry is down. |
+| 2 | Teleporters down | Lets your team know that one or more teleporters are down. |
+| 4 | Uber pop | They have ubercharged. |
+| 5 | Kritz pop | They have popped a kritzkrieg. |
+| 7 | Push | Let's all push (go in). |
+| 8 | Fall back | We need to fall back. |
+
+#####Insulting
+| Button(s) | Function | Extras |
+| --- | --- | --- |
+| / | Insults | Push these the first time insulting someone. |
+| * | Comebacks | Push these when someone is already mad and insulting you. |
+| - | Jokes | These are just nice TF2 related jokes. |
+| + | Spy insults | Because I main spy, I've only made these. |
+
+An example: If I press KP 0 (Enemy down commands) and then KP 4 (demoman), in the chat "Enemy demoman down!" will appear.
+Another example: If I press KP . (spy commands) and then KP 8 (sniper), then it will write "Enemy spy disguised as sniper!".
 
 
 ###Class specific:
@@ -124,8 +150,8 @@ Press these key on your numpad to send insults/taunts in chat. It'll automatical
 ####Heavy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Eat sandvich | Hold to eat sandvich. |
-| Mouse 5 | Throw sandvich | Hold to throw sandvich. |
+| Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if it's done. |
+| Mouse 5 | Throw sandvich | Hold to throw sandvich. You can let go if it's done. |
 
 ####Engineer:
 | Button(s) | Function | Extras |
@@ -148,7 +174,7 @@ Press these key on your numpad to send insults/taunts in chat. It'll automatical
 | Mouse 1 | Build sentry | **Note: Only builds the sentry when SHIFT is held down.** |
 | Mouse 2 | Build dispenser | **Note: Only builds the sentry when SHIFT is held down.** |
 | Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when SHIFT  is held down.** |
-| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when SHIFT is held down.** |
+| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when SHIFT is held down.** 
 
 ####Medic:
 | Button(s) | Function | Extras |
@@ -176,11 +202,5 @@ Press these key on your numpad to send insults/taunts in chat. It'll automatical
 | `walkway` | Loads the tr_walkway map and executes some commands to make it work. |
 | `aim` | Same as above, but then with the map tr_aim. |
 | `aim_training` | Same as above, but then with the map tr_aim_training. |
-| `good_graphics` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
-| `comp_graphics` | Switches to my comp graphics config. |
-
-##Other:
-| Button(s) | Function |
-| --- | --- |
-| Page Up | Use the first person taunts and viewmodel. |
-| Page Down | Use third person taunts and default viewmodel. |
+| `good_g` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
+| `comp_g` | Switches to my comp graphics config. |

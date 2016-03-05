@@ -89,6 +89,15 @@ Most of these stayed the same.
 | - | Accept notification | |
 | = | Decline notification | | 
 
+###Taunts/Insults:
+Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.
+
+| Button(s) | Function | Extras |
+| --- | --- | --- |
+| 0 | Insults | Push these the first time insulting someone. |
+| . | Comebacks | Push these when someone is already mad and insulting you. |
+| ENTER | Jokes | These are just nice TF2 related jokes. |
+| 9 | Spy insults | Because I main spy I've only made these. |
 
 
 ###Class specific:

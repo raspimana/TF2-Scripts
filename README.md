@@ -15,9 +15,9 @@ You should update it regularly, and scan through the keybinds to see if I have a
 ##Maps
 As you can see, I have a few aliasses that start up maps. You can only use them if you've downloaded the maps.
 Those maps are
--tr_walkway_rc2
--tr_aim
--tr_aim_practice
+- tr_walkway_rc2
+- tr_aim
+- tr_aim_practice
 
 
 ##Keybinds

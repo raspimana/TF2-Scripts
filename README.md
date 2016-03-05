@@ -108,6 +108,7 @@ Press these key on your numpad to send insults/taunts in chat. It'll automatical
 
 #####Other
 These take place when the KP enter has been activated.
+
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | 1 | Sentry down | Lets your team know that a sentry is down. |

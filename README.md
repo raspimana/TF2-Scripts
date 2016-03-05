@@ -57,6 +57,8 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | E | Yes! Voice | Says "Yes!" with a voice command. |
 | R | No! Voice | Says "No!" with a voice command. |
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
+| T | Help! Voice | Calls out for help. |
+| G | Goodjob! Voice | You have to be nice somethimes. |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
 ####Low frequency buttons:
@@ -100,8 +102,8 @@ Press these key on your numpad to send insults/taunts in chat. It'll automatical
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | 1-9 | Classes | Use these for selecting the class. |
-| 0 | Enemies down | Push this to use the 'enemy down' commands. |
-| . | Enemy spy | Push this to enable the spy commands. |
+| 0 (INS) | Enemies down | Push this to use the 'enemy down' commands. |
+| . (DEL) | Enemy spy | Push this to enable the spy commands. |
 | ENTER | Other | Push this for other commands. They are listed below. |
 
 #####Other
@@ -172,10 +174,10 @@ Another example: If I press KP . (spy commands) and then KP 8 (sniper), then it 
 ######With SHIFT held down:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 1 | Build sentry | **Note: Only builds the sentry when SHIFT is held down.** |
-| Mouse 2 | Build dispenser | **Note: Only builds the sentry when SHIFT is held down.** |
-| Mousewheel up | Build teleporter exit | **Note: Only builds the sentry when SHIFT  is held down.** |
-| Mousewheel down | Build teleporter entrance | **Note: Only builds the sentry when SHIFT is held down.** 
+| Mouse 1 | Build sentry | |
+| Mouse 2 | Build dispenser | |
+| Mousewheel up | Build teleporter exit | |
+| Mousewheel down | Build teleporter entrance | | 
 
 ####Medic:
 | Button(s) | Function | Extras |

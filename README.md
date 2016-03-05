@@ -86,8 +86,8 @@ Most of these stayed the same.
 | F6 | Save replay | |
 | F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
 | ` | Developer console | You should be familiar with this, if you're on this page. |
-| KP MULTIPLY | Accept notification | |
-| KP MINUS | Decline notification | | 
+| - | Accept notification | |
+| = | Decline notification | | 
 
 
 

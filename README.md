@@ -138,6 +138,7 @@ Another example: If I press `KP .` (spy commands) and then `KP 8` (sniper), then
 | --- | --- | --- |
 | Mouse 4 | Quick secondary | Hold it to use mad milk, or crit-a-cola. |
 | Mouse 5 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
+| Q | Dispenser here! | Press this to use the dispenser here voice menu. Just for lolz. |
 
 ####Soldier:
 | Button(s) | Function | Extras |
@@ -157,6 +158,7 @@ Another example: If I press `KP .` (spy commands) and then `KP 8` (sniper), then
 | --- | --- | --- |
 | Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if it's done. |
 | Mouse 5 | Throw sandvich | Hold to throw sandvich. You can let go if it's done. |
+| Q | Pootispow | Press it. |
 
 ####Engineer:
 | Button(s) | Function | Extras |
@@ -203,3 +205,4 @@ When you have used a key. It will go back to being the default binds (1 for slot
 | `aim_training` | Same as above, but then with the map tr_aim_training. |
 | `good_g` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
 | `comp_g` | Switches to my comp graphics config. |
+| `ultra_g` | Swtiches to the ultra graphics. |

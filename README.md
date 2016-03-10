@@ -162,24 +162,13 @@ Another example: If I press `KP .` (spy commands) and then `KP 8` (sniper), then
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Q | Fastbuild Sentry | Quickly builds a sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
-| SHIFT | Build things | If you hold this down, the next binds will take place. (And of curse the usual shift usage.) |
-
-######Without SHIFT held down:
-| Button(s) | Function | Extras |
-| --- | --- | --- |
-| Mouse 1 | Attacks | |
-| Mouse 2 | Rotate buildings | |
-| Mousewheel Up | Primary weapon | Primary weapon. |
-| Mousewheel Down | Melee | Equips the wrench. |
-| Mouse 3 | Equip secondary |Secondary weapon. |
-
-######With SHIFT held down:
-| Button(s) | Function | Extras |
-| --- | --- | --- |
-| Mouse 1 | Build sentry | |
-| Mouse 2 | Build dispenser | |
-| Mousewheel up | Build teleporter exit | |
-| Mousewheel down | Build teleporter entrance | | 
+| MOUSE 4 | Build things | Push this to use 1-4 to build equipment. |
+When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu.
+* 1 is for building a sentry.
+* 2 is for building a dispenser.
+* 3 is for building a teleporter entrance.
+* 4 is for building a teleporter exit.
+When you have used a key. It will go back to being the default binds (1 for slot1 etc).
 
 ####Medic:
 | Button(s) | Function | Extras |

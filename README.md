@@ -168,6 +168,7 @@ When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu
 * 2 is for building a dispenser.
 * 3 is for building a teleporter entrance.
 * 4 is for building a teleporter exit.
+
 When you have used a key. It will go back to being the default binds (1 for slot1 etc).
 
 ####Medic:

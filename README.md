@@ -187,7 +187,7 @@ When you have used a key. It will go back to being the default binds (1 for slot
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attack | |
-| Mouse 2 | Secondary attack. Uses invisi watch or dead ringer. |
+| Mouse 2 | Secondary attack. Uses invisi watch or dead ringer. It will turn on the viewmodel if you have had equpped the revolver. It will also turn the viewmodel off again after undeploying it if you still have the revolver equipped. |
 | Mousewheel up | Equip primary | Equips primary weapon and removes viewmodel. |
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. Use 'R' to swap between teams. |

@@ -90,9 +90,9 @@ Most of these stayed the same.
 | ` | Developer console | You should be familiar with this, if you're on this page. |
 | - | Accept notification | |
 | = | Decline notification | |
-| \ | First/Third person toggle | Toggles the first person world model and taunt. |
+| PGDN | First/Third person toggle | Toggles the first person world model and taunt. |
 | U | Tauntkill | Press this to use your classes tauntkill weapon and taunt. |
-| B | Call everyone a medic| Use this to say "That demoman is a - medic!" |
+| \ | Voice chat | Use your mic. |
 
 
 ####Numpad voice commands:

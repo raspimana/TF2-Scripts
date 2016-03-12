@@ -205,4 +205,4 @@ When you have used a key. It will go back to being the default binds (1 for slot
 | `aim_training` | Same as above, but then with the map tr_aim_training. |
 | `good_g` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
 | `comp_g` | Switches to my comp graphics config. |
-| `ultra_g` | Swtiches to the ultra graphics. |
+| `ultra_g` | Swtiches to the ultra graphics. Not advised unless you have a good pc. |

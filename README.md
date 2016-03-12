@@ -129,7 +129,7 @@ These take place when the KP enter has been activated.
 
 Examples:  
 If I'd press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the team chat "Enemy demoman down!" will appear.  
-If I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!" in team chat.
+If I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!" in team chat.  
 If I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They have popped Kritz." in team chat.
 
 
@@ -211,5 +211,5 @@ When you have used a key. It will go back to being the default binds (1 for slot
 
 ##Final words.
 Feel free to edit this to your own liking. But please refer to me (and this page) if you will upload this code somewere.
-Message me if you encounter any bugs, I'd be glad to help and fix it. You can also message me if you know any improvements.
-
+Message me if you encounter any bugs, I'd be glad to help and fix it. You can also message me if you know any improvements.  
+Also, check out [my youtube channel](https://www.youtube.com/user/1tvde1) for some cool TF2 videos! (Mostly spy and frag related.)

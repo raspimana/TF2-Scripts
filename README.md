@@ -128,8 +128,9 @@ These take place when the KP enter has been activated.
 | + | Spy insults | Because I main spy, I've only made these. |
 
 Examples:  
-An example: If I press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the chat "Enemy demoman down!" will appear.  
-Another example: If I press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!".
+If I'd press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the team chat "Enemy demoman down!" will appear.  
+If I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!" in team chat.
+If I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They have popped Kritz." in team chat.
 
 
 ###Class specific:
@@ -191,7 +192,7 @@ When you have used a key. It will go back to being the default binds (1 for slot
 | --- | --- | --- |
 | Mouse 1 | Attack | |
 | Mouse 2 | Secondary attack. | Uses invisi watch or dead ringer. It will turn on the viewmodel if you have equpped the revolver. It will also turn the viewmodel off again after undeploying it if you still have the revolver equipped. |
-| Mousewheel up | Equip primary | Equips primary weapon and removes viewmodel. |
+| Mousewheel up | Equip primary | Equips primary weapon and removes viewmodel. Using any other weapon will show the viewmodel again. |
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. | Use 'R' to swap between teams. |
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |

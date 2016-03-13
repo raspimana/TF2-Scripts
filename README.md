@@ -57,8 +57,8 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | E | Yes! Voice | Says "Yes!" with a voice command. |
 | R | No! Voice | Says "No!" with a voice command. |
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
-| T | Help! Voice | Calls out for help. |
 | G | Goodjob! Voice | You have to be nice somethimes. |
+| T | Trade binds | These will say your trade binds in chat. (Bottom of chat.cfg) |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
 ####Low frequency buttons:

@@ -45,8 +45,8 @@ Those maps are
 | --- | --- | --- |
 | E | Call for medic | I shouldn't have to explain this. |
 | ALT | Call for spy | Just calls out that there is a spy. |
-| F | Inspect | Inspects the player aimed at, or shows an animation of your current weapon. |
-| R | Reload and disguise team | Use this to manually reload, or change the gisguise team as a spy. |
+| F | Inspect | Inspects the player aimed at, or shows an animation of your current reskin weapon. |
+| R | Reload and disguise team | Use this to manually reload, or change the disguise team as a spy. |
 | SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. Some classes will add extra usages to this button. |
 
 ######Shift usage:
@@ -58,6 +58,7 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | R | No! Voice | Says "No!" with a voice command. |
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
 | G | Goodjob! Voice | You have to be nice somethimes. |
+| Q | Help! Voice | Ask for help. |
 | T | Trade binds | These will say your trade binds in chat. (Bottom of chat.cfg) |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
@@ -88,12 +89,11 @@ Most of these stayed the same.
 | F6 | Save replay | |
 | F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
 | ` | Developer console | You should be familiar with this, if you're on this page. |
-| - | Decline notification | |
-| = | Accept notification | |
 | PGDN | First/Third person toggle | Toggles the first person world model and taunt. |
 | U | Tauntkill | Press this to use your classes tauntkill weapon and taunt. |
 | \ | Voice chat | Use your mic. |
-
+| - | Decline notification | |
+| = | Accept notification | |
 
 ####Numpad voice commands:
 Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.  
@@ -129,8 +129,8 @@ These take place when the KP enter has been activated.
 
 Examples:  
 If I'd press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the team chat "Enemy demoman down!" will appear.  
-If I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!" in team chat.  
-If I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They have popped Kritz." in team chat.
+And if I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!" in team chat.  
+Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They have popped Kritz." in team chat.
 
 
 ###Class specific:
@@ -160,7 +160,7 @@ If I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They ha
 | --- | --- | --- |
 | Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if it's done. |
 | Mouse 5 | Throw sandvich | Hold to throw sandvich. You can let go if it's done. |
-| Q | Pootispow | Press it. |
+| Q | Pootispow | Press it. It will pootispow. |
 
 ####Engineer:
 | Button(s) | Function | Extras |
@@ -171,8 +171,7 @@ When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu
 * 1 is for building a sentry.
 * 2 is for building a dispenser.
 * 3 is for building a teleporter entrance.
-* 4 is for building a teleporter exit.
-
+* 4 is for building a teleporter exit.  
 When you have used a key. It will go back to being the default binds (1 for slot1 etc).
 
 ####Medic:
@@ -197,7 +196,7 @@ When you have used a key. It will go back to being the default binds (1 for slot
 | Mouse 3 | Use the disguise menu. | Use 'R' to swap between teams. |
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
 | Mouse 5 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
-| Q | Zoom script | You will zoom in (low FOV). Press it again to zoom out.|
+| Q | Zoom script | You will zoom in (low FOV). Press it again to zoom out. |
 
 ##Console Commands:
 | Command | Meaning |

@@ -57,7 +57,7 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | E | Yes! Voice | Says "Yes!" with a voice command. |
 | R | No! Voice | Says "No!" with a voice command. |
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
-| G | Goodjob! Voice | You have to be nice somethimes. |
+| G | Nice shot! Voice | You have to be nice somethimes. |
 | Q | Help! Voice | Ask for help. |
 | T | Trade binds | These will say your trade binds in chat. (Bottom of chat.cfg) |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
@@ -76,6 +76,7 @@ Most of these stayed the same.
 | Z | Use your spray | Spray the selected image. |
 | T | Open chat | Opens server chat. |
 | Y | Team chat | Opens chat for your team to see only. |
+| K | Die | Kill yourself. |
 | G | Taunt | Uses your taunt menu. Press twice to use the item taunt. (Or once if you have no other taunts equipped.) |
 | , | Change class | You all know this button. But I advise you to use the SHIFT + 1-9 to change classes. |
 | . | Change team | You know this too. Use it! |

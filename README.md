@@ -58,7 +58,8 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | R | No! Voice | Says "No!" with a voice command. |
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
 | G | Nice shot! Voice | You have to be nice somethimes. |
-| Q | Help! Voice | Ask for help. |
+| Q | Cheers! Voice | Lol. |
+| C | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
 | T | Trade binds | These will say your trade binds in chat. (Bottom of chat.cfg) |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
@@ -83,7 +84,7 @@ Most of these stayed the same.
 | TAB | Show scoreboard | You should know that screen by now. |
 | ESCAPE | Cancel | Regular ESCAPE function. |
 | ENTER | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |"
-| P | Accept connect | Press this to accept if you have been asked to join a server (by a server). |
+| J | Accept connect | Press this to accept if you have been asked to join a server (by a server). |
 | H | Use | Use the item in your action slot. |
 | F3 | Reload HUD | If it's buggy, or something disappeared. |
 | F5 | Screenshot | |
@@ -123,8 +124,8 @@ These take place when the KP enter has been activated.
 #####Insulting/Joking
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| / | Insults | Push these the first time insulting someone. |
-| * | Comebacks | Push these when someone is already mad and insulting you. |
+| / | Taunts | Push these for a lenny and rekts. |
+| * | Insults | Push these when someone is already mad. These are whole centances. |
 | - | Jokes | These are just nice TF2 related jokes. |
 | + | Spy insults | Because I main spy, I've only made these. |
 
@@ -141,7 +142,8 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 | --- | --- | --- |
 | Mouse 4 | Quick secondary | Hold it to use mad milk, or crit-a-cola. |
 | Mouse 5 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
-| Q | Dispenser here! | Press this to use the dispenser here voice menu. Just for lolz. |
+| Q | Dispenser here! | Press this keep spamming "Need a dispenser here!" if you shoot or jump!. |
+
 
 ####Soldier:
 | Button(s) | Function | Extras |
@@ -162,18 +164,22 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 | Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if it's done. |
 | Mouse 5 | Throw sandvich | Hold to throw sandvich. You can let go if it's done. |
 | Q | Pootispow | Press it. It will pootispow. |
+| P | Pootis Spam | Hold it while in spawn to keep spamming pootis. |
 
 ####Engineer:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Q | Fastbuild Sentry | Quickly builds a sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
 | MOUSE 4 | Build things | Push this to use 1-4 to build equipment. |
+
 When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu:
 * 1 is for building a sentry.
 * 2 is for building a dispenser.
 * 3 is for building a teleporter entrance.
 * 4 is for building a teleporter exit.  
 When you have used a key. It will go back to being the default binds (1 for slot1 etc).
+
+Also, he will say "dammit!" every time you shoot.
 
 ####Medic:
 | Button(s) | Function | Extras |
@@ -186,6 +192,8 @@ When you have used a key. It will go back to being the default binds (1 for slot
 ####Sniper:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
+
+Also, he will say "nice shot!" every time you shoot.
 
 ####Spy:
 | Button(s) | Function | Extras |
@@ -205,11 +213,13 @@ When you have used a key. It will go back to being the default binds (1 for slot
 | `walkway` | Loads the tr_walkway map and executes some commands to make it work. |
 | `aim` | Same as above, but then with the map tr_aim. |
 | `aim_training` | Same as above, but then with the map tr_aim_training. |
-| `good_g` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
 | `comp_g` | Switches to my comp graphics config. |
+| `good_g` | Uses my good graphics config. Usually for playing pubs. This is the default one. |
 | `ultra_g` | Swtiches to the ultra graphics. Not advised unless you have a good pc. |
+
+Changing graphics, can (and will) freze your game. But only when changing to `good` or `ultra`.
 
 ##Final words.
 Feel free to edit this to your own liking. But please refer to me (and this page) if you will upload this code somewere.
 Message me if you encounter any bugs, I'd be glad to help and fix it. You can also message me if you know any improvements.  
-Also, check out [my youtube channel](https://www.youtube.com/user/1tvde1) for some cool TF2 videos! (Mostly spy and frag related.)
+Also, check out [my youtube channel](https://www.youtube.com/user/1tvde1) for some cool TF2 videos! (Mostly spy frags and fun related.)

@@ -58,8 +58,7 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | R | No! Voice | Says "No!" with a voice command. |
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
 | G | Nice shot! Voice | You have to be nice somethimes. |
-| Q | Cheers! Voice | Lol. |
-| C | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
+| Q | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
 | T | Trade binds | These will say your trade binds in chat. (Bottom of chat.cfg) |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
@@ -148,8 +147,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 ####Soldier:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and press the button. You will crouchjump and shoot a rocket automatically. |
-
+| Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and then press the button. You will crouchjump and shoot a rocket automatically. 
 ####Pyro:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
@@ -164,12 +162,12 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 | Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if it's done. |
 | Mouse 5 | Throw sandvich | Hold to throw sandvich. You can let go if it's done. |
 | Q | Pootispow | Press it. It will pootispow. |
-| P | Pootis Spam | Hold it while in spawn to keep spamming pootis. |
+| P | Pootis Spam | Spam it while **in spawn** to keep saying pootis. |
 
 ####Engineer:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Q | Fastbuild Sentry | Quickly builds a sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
+| Q | Fastbuild Sentry | Quickly builds a sentry. This will destroy you old sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
 | MOUSE 4 | Build things | Push this to use 1-4 to build equipment. |
 
 When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu:
@@ -179,7 +177,7 @@ When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu
 * 4 is for building a teleporter exit.  
 When you have used a key. It will go back to being the default binds (1 for slot1 etc).
 
-Also, he will say "dammit!" every time you shoot.
+Also, you will say "Dammit!" every time you use left mouse button.
 
 ####Medic:
 | Button(s) | Function | Extras |
@@ -193,7 +191,7 @@ Also, he will say "dammit!" every time you shoot.
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-Also, he will say "nice shot!" every time you shoot.
+You will say "nice shot!" every time you attack.
 
 ####Spy:
 | Button(s) | Function | Extras |
@@ -220,6 +218,6 @@ Also, he will say "nice shot!" every time you shoot.
 Changing graphics, can (and will) freze your game. But only when changing to `good` or `ultra`.
 
 ##Final words.
-Feel free to edit this to your own liking. But please refer to me (and this page) if you will upload this code somewere.
+Feel free to edit this to your own liking. But please refer to me (and this page) if you will upload this code somewhere.
 Message me if you encounter any bugs, I'd be glad to help and fix it. You can also message me if you know any improvements.  
 Also, check out [my youtube channel](https://www.youtube.com/user/1tvde1) for some cool TF2 videos! (Mostly spy frags and fun related.)

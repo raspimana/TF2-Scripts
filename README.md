@@ -59,7 +59,8 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
 | G | Nice shot! Voice | You have to be nice somethimes. |
 | Q | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
-| T | Trade binds | These will say your trade binds in chat. (Bottom of chat.cfg) |
+| T | Trade binds | These will say your trade binds in chat. (in chat.cfg) |
+| C | Trash talk | This will say a trash (from chat.cfg). |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
 ####Low frequency buttons:
@@ -204,6 +205,8 @@ You will say "nice shot!" every time you attack.
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
 | Mouse 5 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
 | Q | Zoom script | You will zoom in (low FOV). Press it again to zoom out. |
+
+Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained there what lines to comment and uncomment (//).
 
 ##Console Commands:
 | Command | Meaning |

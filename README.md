@@ -60,7 +60,7 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | G | Nice shot! Voice | You have to be nice somethimes. |
 | Q | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
 | T | Trade binds | These will say your trade binds in chat. (in chat.cfg) |
-| C | Trash talk | This will say a trash (from chat.cfg). |
+| C | Trash talk | This will say a trash line (from chat.cfg). |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
 ####Low frequency buttons:
@@ -149,9 +149,14 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and then press the button. You will crouchjump and shoot a rocket automatically. 
+
+
 ####Pyro:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
+| Mouse 2 | Airblast + Flare | It'll airblast and switch to the flare gun. |
+| SHIFT | No Flare | Hold it to not switch to the flare gun when you right click. |
+| Mouse 4 | Viewmodel off | This is a toggle to toggle he flamethrower viewmodel (and flames) off. |
 
 ####Demoman:
 | Button(s) | Function | Extras |

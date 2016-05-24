@@ -127,7 +127,7 @@ These take place when the KP enter has been activated.
 | / | Taunts | Push these for a lenny and rekts. |
 | * | Insults | Push these when someone is already mad. These are whole centances. |
 | - | Jokes | These are just nice TF2 related jokes. |
-| + | Spy insults | Because I main spy, I've only made these. |
+| + | Spy insults | Because I main spy, I've made these. |
 
 Examples:  
 If I'd press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the team chat "Enemy demoman down!" will appear.  

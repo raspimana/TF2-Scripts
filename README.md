@@ -60,7 +60,7 @@ When shift is held down, these buttons will serve diffrent purposes than if shif
 | G | Nice shot! Voice | You have to be nice somethimes. |
 | Q | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
 | T | Trade binds | These will say your trade binds in chat. (in chat.cfg) |
-| C | Trash talk | This will say a trash line (from chat.cfg). |
+| C | Noob talk | This will say a noob line (from chat.cfg). |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
 ####Low frequency buttons:
@@ -69,30 +69,30 @@ Most of these stayed the same.
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | L | Dropitem | Drops the intel/other stuff when carrying it. |
-| M | Open loadout | Goes directly to the laodout of the class you're in. |
+| M | Open loadout | Goes directly to the loadout of the class you're in. |
 | N | Open backpack | Opens your backpack. |
 | X | Voice menu 1 | Opens voice menu 1. |
 | C | Voice menu 2 | Opens voice menu 2. |
 | V | Voice menu 3 | Opens voice menu 3. |
-| Z | Use your spray | Spray the selected image. |
+| Z | Spray | Spray your spray. |
 | T | Open chat | Opens server chat. |
 | Y | Team chat | Opens chat for your team to see only. |
-| K | Die | Kill yourself. |
+| K | Die | You kill yourself. |
 | G | Taunt | Uses your taunt menu. Press twice to use the item taunt. (Or once if you have no other taunts equipped.) |
-| , | Change class | You all know this button. But I advise you to use the SHIFT + 1-9 to change classes. |
-| . | Change team | You know this too. Use it! |
-| TAB | Show scoreboard | You should know that screen by now. |
-| ESCAPE | Cancel | Regular ESCAPE function. |
-| ENTER | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |"
+| , | Change class | Changes classes. But I advise you to use the SHIFT + 1-9 to change classes. |
+| . | Change team | Change teams. |
 | J | Accept connect | Press this to accept if you have been asked to join a server (by a server). |
 | H | Use | Use the item in your action slot. |
-| F3 | Reload HUD | If it's buggy, or something disappeared. |
+| U | Tauntkill | Press this to use your classes tauntkill weapon and taunt. |
+| TAB | Show scoreboard | You should know that screen by now. |
+| ESCAPE | Cancel | Regular escape function. |
+| PGDN | First/Third person toggle | Toggles the first person world model and taunt. Just for fun. |
+| F3 | Bug-fix button | If it's buggy, or something disappeared. |
+| F4 | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |
 | F5 | Screenshot | |
 | F6 | Save replay | |
 | F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
 | ` | Developer console | You should be familiar with this, if you're on this page. |
-| PGDN | First/Third person toggle | Toggles the first person world model and taunt. |
-| U | Tauntkill | Press this to use your classes tauntkill weapon and taunt. |
 | \ | Voice chat | Use your mic. |
 | - | Decline notification | |
 | = | Accept notification | |
@@ -125,7 +125,7 @@ These take place when the KP enter has been activated.
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | / | Taunts | Push these for a lenny and rekts. |
-| * | Insults | Push these when someone is already mad. These are whole centances. |
+| * | Insults | Push these when someone is mad. These are whole centances. |
 | - | Jokes | These are just nice TF2 related jokes. |
 | + | Spy insults | Because I main spy, I've made these. |
 
@@ -140,23 +140,19 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 ####Scout:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Quick secondary | Hold it to use mad milk, or crit-a-cola. |
-| Mouse 5 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
-| Q | Dispenser here! | Press this keep spamming "Need a dispenser here!" if you shoot or jump!. |
-
+| Mouse 4 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
+| Q | Dispenser here! | Press this to use the "Need a dispenser here!" voice command. |
 
 ####Soldier:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Rocketjump | Equip your rocket launcher, aim at the ground/wall and then press the button. You will crouchjump and shoot a rocket automatically. 
-
 
 ####Pyro:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 2 | Airblast + Flare | It'll airblast and switch to the flare gun. |
 | SHIFT | No Flare | Hold it to not switch to the flare gun when you right click. |
-| Mouse 4 | Viewmodel off | This is a toggle to toggle he flamethrower viewmodel (and flames) off. |
+| Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. |
 
 ####Demoman:
 | Button(s) | Function | Extras |
@@ -181,6 +177,7 @@ When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu
 * 2 is for building a dispenser.
 * 3 is for building a teleporter entrance.
 * 4 is for building a teleporter exit.  
+
 When you have used a key. It will go back to being the default binds (1 for slot1 etc).
 
 Also, you will say "Dammit!" every time you use left mouse button.
@@ -211,7 +208,7 @@ You will say "nice shot!" every time you attack.
 | Mouse 5 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
 | Q | Zoom script | You will zoom in (low FOV). Press it again to zoom out. |
 
-Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained there what lines to comment and uncomment (//).
+Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained there what lines to comment and uncomment (with //).
 
 ##Console Commands:
 | Command | Meaning |

@@ -19,7 +19,6 @@ Those maps are
 - tr_aim
 - tr_aim_practice
 
-
 ##Keybinds
 
 ###All classes: (Some classes may overwrite these)
@@ -96,7 +95,11 @@ Most of these stayed the same.
 | \ | Voice chat | Use your mic. |
 | - | Decline notification | |
 | = | Accept notification | |
-| ' | P-rec bookmark | If you have P-rec, use this to bookmark. |
+| [ | Demo start | Start recording a demo. |
+| ] | Demo stop | Stop recording a demo. |
+| ' | Demo bookmark | If you are recording a demo and want a bookmark, use this to bookmark. |
+
+Note: The demos will be stored in `tf\demp_[class]`. The [class] is the class thet you're playing.
 
 ####Numpad voice commands:
 Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.  
@@ -162,8 +165,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 ####Heavy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if it's done. |
-| Mouse 5 | Throw sandvich | Hold to throw sandvich. You can let go if it's done. |
+| Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if you're eating. |
 | Q | Pootispow | Press it. It will pootispow. |
 | P | Pootis Spam | Spam it while **in spawn** to keep saying pootis. |
 
@@ -187,9 +189,8 @@ Also, you will say "Dammit!" every time you use left mouse button.
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 2 | Uber | Swiches to medigun and ubers. Also writes it in team chat. |
-| Mouse 4 | Radar | Hold this to see all your teammates. |
-| Mouse 5 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
-| Q | Fake uber | It'll play the ubercharge ready sound, but notify your teammates that it's fake in team chat. |
+| Mouse 4 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
+| Q| Radar | Hold this to see all your teammates. |
 
 ####Sniper:
 | Button(s) | Function | Extras |
@@ -206,7 +207,7 @@ You will say "nice shot!" every time you attack.
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. | Use 'R' to swap between teams. |
 | Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
-| Mouse 5 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
+| Shift + Mouse 4 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
 | Q | Zoom script | You will zoom in (low FOV). Press it again to zoom out. |
 
 Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained there what lines to comment and uncomment (with //).

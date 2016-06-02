@@ -87,7 +87,7 @@ Most of these stayed the same.
 | TAB | Show scoreboard | You should know that screen by now. |
 | ESCAPE | Cancel | Regular escape function. |
 | PGDN | First/Third person toggle | Toggles the first person world model and taunt. Just for fun. |
-| F3 | Bug-fix button | If it's buggy, or something disappeared. |
+| F3 | Bug-fix button | If it's buggy, or something disappeared. Note: this will most likely freese your game for more than 10 seconds. |
 | F4 | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |
 | F5 | Screenshot | |
 | F6 | Save replay | |
@@ -96,6 +96,7 @@ Most of these stayed the same.
 | \ | Voice chat | Use your mic. |
 | - | Decline notification | |
 | = | Accept notification | |
+| ' | P-rec bookmark | If you have P-rec, use this to bookmark. |
 
 ####Numpad voice commands:
 Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.  
@@ -150,8 +151,8 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 ####Pyro:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 2 | Airblast + Flare | It'll airblast and switch to the flare gun. |
-| SHIFT | No Flare | Hold it to not switch to the flare gun when you right click. |
+| Mouse 2 | Airblast | It'll switch to your flamethrower and airblast. |
+| SHIFT | Flare airblast | Hold shift if you want to swap to the flare gun after if you ariblast. |
 | Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. |
 
 ####Demoman:

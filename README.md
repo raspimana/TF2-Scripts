@@ -26,7 +26,7 @@ Those maps are
 ####High frequency buttons:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| WASD | Regular movement | I have added a null-movement script. |
+| W A S D | Regular movement | I have added a null-movement script. |
 | SPACE | Jumps + crouches | This button jumps and crouches at the same time. Still crouches when you hold the spacebar. |
 | CTRL | Crouches | |
 
@@ -37,7 +37,7 @@ Those maps are
 | Mouse 2 | Uses attack 2 | E.g. equipping an invisi-watch, or zooming in as sniper. |
 | Mousewheel Up | Primary weapon | Equips the primary weapon. **NOTE: Some classes overwrite this.**|
 | Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this.**|
-| Mousewheel Click | Melee | Equips the melee weapon and keeps swinging it until you let go if it. It will still be equipped. **NOTE: Some classes overwrite this.**|
+| Mousewheel Click (Mouse 3) | Melee | Equips the melee weapon and keeps swinging it until you let go if it. It will still be equipped. **NOTE: Some classes overwrite this.**|
 
 ####Special Keys:
 | Button(s) | Function | Extras |
@@ -49,7 +49,8 @@ Those maps are
 | SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. Some classes will add extra usages to this button. |
 
 ######Shift usage:
-When shift is held down, these buttons will serve diffrent purposes than if shift hadn't been held down. When shift is released, all buttons will be bound to the previous binds again.
+When shift is held down, these buttons will serve diffrent purposes than if shift hadn't been held down. When shift is released, all buttons will be bound to the previous binds again.  
+Also, some classes will make use of shift. It'll switch what a button does.
 
 | Button(s) | Function | Extras |
 | --- | --- | --- |
@@ -99,7 +100,7 @@ Most of these stayed the same.
 | ] | Demo stop | Stop recording a demo. |
 | ' | Demo bookmark | If you are recording a demo and want a bookmark, use this to bookmark. |
 
-Note: The demos will be stored in `tf\demp_[class]`. The [class] is the class thet you're playing.
+Note: The demos will be stored in `tf\demo_[class]`. The [class] is the class thet you're playing. Also, if you make a bookmark, it'll say `Bookmark: [Class]`.
 
 ####Numpad voice commands:
 Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.  
@@ -128,7 +129,7 @@ These take place when the KP enter has been activated.
 #####Insulting/Joking
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| / | Taunts | Push these for a lenny and rekts. |
+| / | Taunts | Push these for a lenny and rekts. **Not working currently** |
 | * | Insults | Push these when someone is mad. These are whole centances. |
 | - | Jokes | These are just nice TF2 related jokes. |
 | + | Spy insults | Because I main spy, I've made these. |
@@ -155,7 +156,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 2 | Airblast | It'll switch to your flamethrower and airblast. |
-| SHIFT | Flare airblast | Hold shift if you want to swap to the flare gun after if you ariblast. |
+| SHIFT + Mouse 2 | Flare airblast | Swaps to the flare gun after you ariblast. |
 | Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. |
 
 ####Demoman:
@@ -165,7 +166,8 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 ####Heavy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if you're eating. |
+| Mouse 4 | Throw sandvich | Hold it to throw the sandvich (on the ground or to a player) and let go if it's thrown. |
+| Shift + Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if you're eating. |
 | Q | Pootispow | Press it. It will pootispow. |
 | P | Pootis Spam | Spam it while **in spawn** to keep saying pootis. |
 
@@ -188,8 +190,9 @@ Also, you will say "Dammit!" every time you use left mouse button.
 ####Medic:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 2 | Uber | Swiches to medigun and ubers. Also writes it in team chat. |
-| Mouse 4 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
+| Mouse 2 | Uber | Switches to medigun and ubers. Also writes it in team chat. |
+| Mouse 4 | Fake uber | You will say the Uber Ready voice command while you say that it's fake in your team chat. |
+| Shift + Mouse 4 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
 | Q| Radar | Hold this to see all your teammates. |
 
 ####Sniper:

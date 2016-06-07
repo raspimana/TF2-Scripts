@@ -129,7 +129,7 @@ These take place when the KP enter has been activated.
 #####Insulting/Joking
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| / | Taunts | Push these for a lenny and rekts. **Not working currently** |
+| / | LMAOBOX Spam | Push these for a LMAOBOX spam line. (You won't get vac'ed!) |
 | * | Insults | Push these when someone is mad. These are whole centances. |
 | - | Jokes | These are just nice TF2 related jokes. |
 | + | Spy insults | Because I main spy, I've made these. |
@@ -231,3 +231,6 @@ Changing graphics, can (and will) freze your game. But only when changing to `go
 Feel free to edit this to your own liking. But please refer to me (and this page) if you will upload this code somewhere.
 Message me if you encounter any bugs, I'd be glad to help and fix it. You can also message me if you know any improvements.  
 Also, check out [my youtube channel](https://www.youtube.com/user/1tvde1) for some cool TF2 videos! (Mostly spy frags and fun related.)
+
+####P.S.
+You can bind a lenny face to KP_PLUS (the plus on the numpad). It won't unbind it.

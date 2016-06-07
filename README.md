@@ -87,17 +87,20 @@ Most of these stayed the same.
 | TAB | Show scoreboard | You should know that screen by now. |
 | ESCAPE | Cancel | Regular escape function. |
 | PGDN | First/Third person toggle | Toggles the first person world model and taunt. Just for fun. |
-| F3 | Bug-fix button | If it's buggy, or something disappeared. Note: this will most likely freese your game for more than 10 seconds. |
-| F4 | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |
-| F5 | Screenshot | |
-| F6 | Save replay | |
-| F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
 | ` | Developer console | You should be familiar with this, if you're on this page. |
 | \ | Voice chat | Use your mic. |
 | - | Decline notification | |
 | = | Accept notification | |
-| [ | Demo start | Start recording a demo. |
-| ] | Demo stop | Stop recording a demo. |
+| F1-F4 | Choose between presets. | Also use to quick respawn. |
+| F4 | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |
+| F5 | Screenshot | |
+| F6 | Save replay | |
+| F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
+| F8 | Bug-fix button | If it's buggy, or something disappeared. Note: this will most likely freese your game for more than 10 seconds. |
+| F9 | Vote option 1 | Usually vote yes in the tf2 voting system (kick, or next map) |
+| F10 | Vote option 2 | Usually no ^ |
+| F11 | Demo start | Start recording a demo. |
+| F12 | Demo stop | Stop recording a demo. |
 | ' | Demo bookmark | If you are recording a demo and want a bookmark, use this to bookmark. |
 
 Note: The demos will be stored in `tf\demo_[class]`. The [class] is the class thet you're playing. Also, if you make a bookmark, it'll say `Bookmark: [Class]`.

@@ -91,16 +91,16 @@ Most of these stayed the same.
 | \ | Voice chat | Use your mic. |
 | - | Decline notification | |
 | = | Accept notification | |
-| F1-F4 | Choose between presets. | Also use to quick respawn. |
-| F4 | Toggle ready in MvM | Use this to toggle your ready state in MvM and other gamemodes. |
+| F1 | Vote option 1 | Usually vote yes in the tf2 voting system (kick, or next map) |
+| F2 | Vote option 2 | Usually no ^ |
+| F3 | Demo start | Start recording a demo. |
+| Shift + F3 | Demo stop | Stop recording a demo. |
+| F4 | Toggle ready | Use this to toggle your ready state in MvM and other gamemodes. |
 | F5 | Screenshot | |
 | F6 | Save replay | |
 | F7 | Fill in an abuse report | Use it when you spot a cheater. It is pretty self explanatory. |
-| F8 | Bug-fix button | If it's buggy, or something disappeared. Note: this will most likely freese your game for more than 10 seconds. |
-| F9 | Vote option 1 | Usually vote yes in the tf2 voting system (kick, or next map) |
-| F10 | Vote option 2 | Usually no ^ |
-| F11 | Demo start | Start recording a demo. |
-| F12 | Demo stop | Stop recording a demo. |
+| F8 | Bug-fix button | If it's buggy, or something disappeared. Note: this will most likely freese your game for more than 10 seconds. Could disconnect you from game. |
+| F9-F12 | Choose between presets. | Also use to quick respawn. |
 | ' | Demo bookmark | If you are recording a demo and want a bookmark, use this to bookmark. |
 
 Note: The demos will be stored in `tf\demo_[class]`. The [class] is the class thet you're playing. Also, if you make a bookmark, it'll say `Bookmark: [Class]`.

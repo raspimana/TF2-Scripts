@@ -117,6 +117,8 @@ First, select a catagory. 0, . or ENTER. And then use the 1-9 buttons.
 | . (DEL) | Enemy spy | Push this to enable the spy commands. It will write "Enemy spy disguised as ..." in team chat. |
 | ENTER | Other | Push this for other commands. They are listed below. |
 
+So after 0 (INS) and . (DEL), press 1-9 for the class.
+
 #####Other
 These take place when the KP enter has been activated.
 
@@ -124,10 +126,14 @@ These take place when the KP enter has been activated.
 | --- | --- | --- |
 | 1 | Sentry down | Lets your team know that a sentry is down. |
 | 2 | Teleporters down | Lets your team know that one or more teleporters are down. |
-| 4 | Uber pop | They have ubercharged. |
-| 5 | Kritz pop | They have popped a kritzkrieg. |
+| 3 | Everything down | Lets your team know the whole nest is down. |
+| 4 | Uber pop | Select the class they popped on. |
+| 5 | Kritz pop | Select the class they popped on. |
+| 6 | Quick fix pop | Select the class they popped on. |
 | 7 | Push | Let's all push (go in). |
 | 8 | Fall back | We need to fall back. |
+
+When you press 4 or 5 to show an uber pop, press 1-9 to show the class they've popped on.
 
 #####Insulting/Joking
 | Button(s) | Function | Extras |
@@ -135,12 +141,11 @@ These take place when the KP enter has been activated.
 | / | LMAOBOX Spam | Push these for a LMAOBOX spam line. (You won't get vac'ed!) |
 | * | Insults | Push these when someone is mad. These are whole centances. |
 | - | Jokes | These are just nice TF2 related jokes. |
-| + | Spy insults | Because I main spy, I've made these. |
 
 Examples:  
 If I'd press `KP 0` (Enemy down commands) and then `KP 4` (demoman), in the team chat "Enemy demoman down!" will appear.  
 And if I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will write "Enemy spy disguised as sniper!" in team chat.  
-Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They have popped Kritz." in team chat.
+Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it will write "They have popped kritz on the Demoman." in team chat.
 
 
 ###Class specific:
@@ -160,7 +165,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5`, it will write "They
 | --- | --- | --- |
 | Mouse 2 | Airblast | It'll switch to your flamethrower and airblast. |
 | SHIFT + Mouse 2 | Flare airblast | Swaps to the flare gun after you ariblast. |
-| Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. |
+| Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. | 
 
 ####Demoman:
 | Button(s) | Function | Extras |

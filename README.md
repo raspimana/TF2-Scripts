@@ -1,36 +1,36 @@
-#Tvde1's TF2 Configs
+# Tvde1's TF2 Configs
 
-##Introduction
+## Introduction
 Hi!
 These are my TF2 configs for all classes.
 I'll try to comment on what every line does, if there are any questions, just ask.
 Feel free to edit the configs to your own liking!
 
 
-##Installation
+## Installation
 You can download this GitHub repository as a .zip and extract all the files into `%YourSteamPath%\SteamApps\common\Team Fortress 2\tf\custom\Configs\` (so there will be a `cfg` folder in it). You can delete README.md though as it serves no function in game.  
 Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name as these.
 You should update it regularly, and scan through the README.md to see if I have added something.
 
-##Maps
+## Maps
 As you can see, I have a few aliasses that start up maps. You can only use them if you've downloaded the maps. It is optional, you don't have to download them.
 Those maps are
 - tr_walkway_rc2
 - tr_aim
 - tr_aim_practice
 
-##Keybinds
+## Keybinds
 
-###All classes: (Some classes may overwrite these)
+### All classes: (Some classes may overwrite these)
 
-####High frequency buttons:
+#### High frequency buttons:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | W A S D | Regular movement | I have added a null-movement script. |
 | SPACE | Jumps + crouches | This button jumps and crouches at the same time. Still crouches when you hold the spacebar. |
 | CTRL | Crouches | |
 
-####Mouse:
+#### Mouse:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attacks | Just the same as default |
@@ -39,7 +39,7 @@ Those maps are
 | Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this.**|
 | Mousewheel Click (Mouse 3) | Melee | Equips the melee weapon and keeps swinging it until you let go if it. It will still be equipped. **NOTE: Some classes overwrite this.**|
 
-####Special Keys:
+#### Special Keys:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | E | Call for medic | I shouldn't have to explain this. |
@@ -48,7 +48,7 @@ Those maps are
 | R | Reload and disguise team | Use this to manually reload, or change the disguise team as a spy. |
 | SHIFT | Used for class-switching and voice commands | If you hold shift, you can use voice commands and class switching. Some classes will add extra usages to this button. |
 
-######Shift usage:
+###### Shift usage:  
 When shift is held down, these buttons will serve diffrent purposes than if shift hadn't been held down. When shift is released, all buttons will be bound to the previous binds again.  
 Also, some classes will make use of shift. It'll switch what a button does.
 
@@ -63,7 +63,7 @@ Also, some classes will make use of shift. It'll switch what a button does.
 | C | Noob talk | This will say a noob line (from chat.cfg). |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
-####Low frequency buttons:
+#### Low frequency buttons:
 Most of these stayed the same.
 
 | Button(s) | Function | Extras |
@@ -87,7 +87,7 @@ Most of these stayed the same.
 | TAB | Show scoreboard | You should know that screen by now. |
 | ESCAPE | Cancel | Regular escape function. |
 | PGDN | First/Third person toggle | Toggles the first person world model and taunt. Just for fun. |
-| ` | Developer console | You should be familiar with this, if you're on this page. |
+| \` | Developer console | You should be familiar with this, if you're on this page. |
 | \ | Voice chat | Use your mic. |
 | - | Decline notification | |
 | = | Accept notification | |
@@ -105,11 +105,11 @@ Most of these stayed the same.
 
 Note: The demos will be stored in `tf\demo_[class]`. The [class] is the class thet you're playing. Also, if you make a bookmark, it'll say `Bookmark: [Class]`.
 
-####Numpad voice commands:
+#### Numpad voice commands:
 Press these key on your numpad to send insults/taunts in chat. It'll automatically rebind them to a diffrent one.  
-First, select a catagory. 0, . or ENTER. And then use the 1-9 buttons.
+First, select a catagory. `0`, `.` or `ENTER`. And then use the 1-9 buttons.
 
-#####Selection
+##### Selection
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | 1-9 | Classes | Use these for selecting the class. |
@@ -119,7 +119,7 @@ First, select a catagory. 0, . or ENTER. And then use the 1-9 buttons.
 
 So after 0 (INS) and . (DEL), press 1-9 for the class.
 
-#####Other
+##### Other
 These take place when the KP enter has been activated.
 
 | Button(s) | Function | Extras |
@@ -135,7 +135,7 @@ These take place when the KP enter has been activated.
 
 When you press 4 or 5 to show an uber pop, press 1-9 to show the class they've popped on.
 
-#####Insulting/Joking
+##### Insulting/Joking
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | / | LMAOBOX Spam | Push these for a LMAOBOX spam line. (You won't get vac'ed!) |
@@ -148,9 +148,9 @@ And if I'd press `KP .` (spy commands) and then `KP 8` (sniper), then it will wr
 Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it will write "They have popped kritz on the Demoman." in team chat.
 
 
-###Class specific:
+### Class specific:
 
-####Scout:
+#### Scout:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 4 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
@@ -160,18 +160,18 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it 
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-####Pyro:
+#### Pyro:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 2 | Airblast | It'll switch to your flamethrower and airblast. |
 | SHIFT + Mouse 2 | Flare airblast | Swaps to the flare gun after you ariblast. |
 | Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. | 
 
-####Demoman:
+#### Demoman:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
-####Heavy:
+#### Heavy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 4 | Throw sandvich | Hold it to throw the sandvich (on the ground or to a player) and let go if it's thrown. |
@@ -179,7 +179,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it 
 | Q | Pootispow | Press it. It will pootispow. |
 | P | Pootis Spam | Spam it while **in spawn** to keep saying pootis. |
 
-####Engineer:
+#### Engineer:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Q | Fastbuild Sentry | Quickly builds a sentry. This will destroy you old sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
@@ -195,7 +195,7 @@ When you have used a key. It will go back to being the default binds (1 for slot
 
 Also, you will say "Dammit!" every time you use left mouse button.
 
-####Medic:
+#### Medic:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 2 | Uber | Switches to medigun and ubers. Also writes it in team chat. |
@@ -203,13 +203,14 @@ Also, you will say "Dammit!" every time you use left mouse button.
 | Shift + Mouse 4 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
 | Q| Radar | Hold this to see all your teammates. |
 
-####Sniper:
+#### Sniper:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 
 You will say "nice shot!" every time you attack.
 
 ####Spy:
+
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 1 | Attack | |
@@ -223,7 +224,7 @@ You will say "nice shot!" every time you attack.
 
 Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained there what lines to comment and uncomment (with //).
 
-##Console Commands:
+## Console Commands:
 | Command | Meaning |
 | --- | --- |
 | `walkway` | Loads the tr_walkway map and executes some commands to make it work. |
@@ -235,10 +236,10 @@ Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained 
 
 Changing graphics, can (and will) freze your game. But only when changing to `good` or `ultra`.
 
-##Final words.
+## Final words.
 Feel free to edit this to your own liking. But please refer to me (and this page) if you will upload this code somewhere.
 Message me if you encounter any bugs, I'd be glad to help and fix it. You can also message me if you know any improvements.  
 Also, check out [my youtube channel](https://www.youtube.com/user/1tvde1) for some cool TF2 videos! (Mostly spy frags and fun related.)
 
-####P.S.
+#### P.S.
 You can bind a lenny face to KP_PLUS (the plus on the numpad). It won't unbind it.

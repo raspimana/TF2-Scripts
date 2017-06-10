@@ -156,7 +156,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it 
 | Mouse 4 | Sandman | Hold it to launch a sandman ball. Let it go to return to last selected weapon. |
 | Q | Dispenser here! | Press this to use the "Need a dispenser here!" voice command. |
 
-####Soldier:
+#### Soldier:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 

@@ -6,9 +6,21 @@ These are my TF2 configs for all classes.
 I'll try to comment on what every line does, if there are any questions, just ask.
 Feel free to edit the configs to your own liking!
 
+## General information on scripting
+From the Official Team Fortress Wiki https://wiki.teamfortress.com/wiki/Scripting
+> Scripting is the use of configuration files (.cfg) to create new keybinds and aliases automating complex behaviors and console command sequences. Unlike hacking, scripting is built into Team Fortress 2 and is not banned by VAC (Valve Anti-Cheat). Uses of scripting vary from simply binding a key to a command to self-referential loops and nested aliases that redefine one another. Any functionality that can be created with scripting can also be accomplished without it, but scripting allows these functionalities to be used in the heat of battle.
+
+## List of default keys
+This is a list of default keys for the PC version of Team Fortress 2.
+https://wiki.teamfortress.com/wiki/List_of_default_keys
 
 ## Installation
-You can download this GitHub repository as a .zip and extract all the files into `%YourSteamPath%\SteamApps\common\Team Fortress 2\tf\custom\Configs\` (so there will be a `cfg` folder in it). You can delete README.md though as it serves no function in game.  
+You can download this GitHub repository as a .zip and extract all the files into
+- Windows: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\cfg\
+- OSX: Volume/Users/~username/Library/Application Support/Steam/SteamApps/common/team fortress 2/tf/cfg/
+- Linux: ~/.local/share/Steam/steamapps/common/Team\ Fortress\ 2/tf/custom/
+
+You can delete README.md though as it serves no function in game.  
 Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name as these.
 You should update it regularly, and scan through the README.md to see if I have added something.
 

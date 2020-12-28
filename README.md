@@ -50,6 +50,7 @@ Those maps are
 | Mousewheel Up | Primary weapon | Equips the primary weapon. **NOTE: Some classes overwrite this.**|
 | Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this.**|
 | Mousewheel Click (Mouse 3) | Melee | Equips the melee weapon and keeps swinging it until you let go if it. It will still be equipped. **NOTE: Some classes overwrite this.**|
+| Mouse 4 | Voice Chat | Hold this to use the voice chat. |
 
 #### Special Keys:
 | Button(s) | Function | Extras |
@@ -71,7 +72,6 @@ Also, some classes will make use of shift. It'll switch what a button does.
 | F | Thanks! Voice | Says "Thanks!" with a voice command. |
 | G | Nice shot! Voice | You have to be nice somethimes. |
 | Q | Battlecry voice | Look at enemies with your melee equipped to say something witty. |
-| T | Trade binds | These will say your trade binds in chat. (in chat.cfg) |
 | C | Noob talk | This will say a noob line (from chat.cfg). |
 | 1 to 9 | Class switching | Press 1 - 9 to swich to the desired class. I advise you to use this and not the regular class swiching. |
 
@@ -177,7 +177,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it 
 | --- | --- | --- |
 | Mouse 2 | Airblast | It'll switch to your flamethrower and airblast. |
 | SHIFT + Mouse 2 | Flare airblast | Swaps to the flare gun after you ariblast. |
-| Mouse 4 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. | 
+| Mouse 5 | Viewmodel off | Click this to turn the flamethrower viewmodel (and flames) on/off. | 
 
 #### Demoman:
 | Button(s) | Function | Extras |
@@ -186,8 +186,8 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it 
 #### Heavy:
 | Button(s) | Function | Extras |
 | --- | --- | --- |
-| Mouse 4 | Throw sandvich | Hold it to throw the sandvich (on the ground or to a player) and let go if it's thrown. |
-| Shift + Mouse 4 | Eat sandvich | Hold to eat sandvich. You can let go if you're eating. |
+| Mouse 5 | Throw sandvich | Hold it to throw the sandvich (on the ground or to a player) and let go if it's thrown. |
+| Shift + Mouse 5 | Eat sandvich | Hold to eat sandvich. You can let go if you're eating. |
 | Q | Pootispow | Press it. It will pootispow. |
 | P | Pootis Spam | Spam it while **in spawn** to keep saying pootis. |
 
@@ -195,7 +195,7 @@ Or if I'd press `KP ENTER` (other commands) and then `KP 5` and then `KP_4`, it 
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Q | Fastbuild Sentry | Quickly builds a sentry. This will destroy you old sentry. **Bug: It may fire your gun once accidentally. Switch to your melee first if you don't want to lose revenge crits.** |
-| MOUSE 4 | Build things | Push this to use 1-4 to build equipment. |
+| MOUSE 5 | Build things | Push this to use 1-4 to build equipment. |
 
 When you push mouse 4, the 1, 2, 3 and 4 keys will change into the building menu:
 * 1 is for building a sentry.
@@ -211,8 +211,8 @@ Also, you will say "Dammit!" every time you use left mouse button.
 | Button(s) | Function | Extras |
 | --- | --- | --- |
 | Mouse 2 | Uber | Switches to medigun and ubers. Also writes it in team chat. |
-| Mouse 4 | Fake uber | You will say the Uber Ready voice command while you say that it's fake in your team chat. |
-| Shift + Mouse 4 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
+| Mouse 5 | Fake uber | You will say the Uber Ready voice command while you say that it's fake in your team chat. |
+| Shift + Mouse 5 | Mask uber | Press this when you are at 98/99% ubercharge to suppress the voice comm. |
 | Q| Radar | Hold this to see all your teammates. |
 
 #### Sniper:
@@ -230,8 +230,8 @@ You will say "nice shot!" every time you attack.
 | Mousewheel up | Equip primary | Equips primary weapon and removes viewmodel. Using any other weapon will show the viewmodel again. |
 | Mouswheel down | Equip knife | |
 | Mouse 3 | Use the disguise menu. | Use 'R' to swap between teams. |
-| Mouse 4 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
-| Shift + Mouse 4 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
+| Mouse 5 | Sap-o-matic | Hold this to bring out your sapper and start sapping. Let go of it to return to your knife. |
+| Shift + Mouse 5 | Lastdisguise | Use this to disguise again, or change the weapon your disguise is holding. |
 | Q | Zoom script | You will zoom in (low FOV). Press it again to zoom out. |
 
 Note: If the viewmodels are not being hidden, look at spy.cfg. I have explained there what lines to comment and uncomment (with //).

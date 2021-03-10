@@ -47,9 +47,9 @@ Those maps are
 | --- | --- | --- |
 | Mouse 1 | Attacks | Just the same as default |
 | Mouse 2 | Uses attack 2 | E.g. equipping an invisi-watch, or zooming in as sniper. |
-| Mousewheel Up | Primary weapon | Equips the primary weapon. **NOTE: Some classes overwrite this.**|
-| Mousewheel Down | Secondary weapon | Equips the secondary weapon. **NOTE: Some classes overwrite this.**|
-| Mousewheel Click (Mouse 3) | Melee | Equips the melee weapon and keeps swinging it until you let go if it. It will still be equipped. **NOTE: Some classes overwrite this.**|
+| Mousewheel Up | Previous Weapon | Equips the previous weapon. **NOTE: Some classes overwrite this.**|
+| Mousewheel Down | Next weapon | Equips the next weapon. **NOTE: Some classes overwrite this.**|
+| Mousewheel Click (Mouse 3) | Special Attack | Activates the Heavy's Rage and the Medic's Projectile Shield in MVM when either meter is full. **NOTE: Some classes overwrite this.**|
 | Mouse 4 | Voice Chat | Hold this to use the voice chat. |
 
 #### Special Keys:
